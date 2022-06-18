@@ -1,5 +1,5 @@
- Selenium is the best frame work
- With Java is the best
+If you want to create quick bug reproduction scripts, create scripts to aid in automation-aided exploratory testing, 
+then you want to use Selenium IDE; a Chrome, Firefox and Edge add-on that will do simple record-and-playback of interactions with the browser. Selenium is the best frame work With Java is the best
 If you want to create robust, browser-based regression automation suites and tests, 
 scale and distribute scripts across many environments, then you want to use Selenium WebDriver, 
 a collection of language specific bindings to drive a browser - the way it is meant to be driven.
