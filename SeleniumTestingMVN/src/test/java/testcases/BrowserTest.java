@@ -28,7 +28,7 @@ public class BrowserTest {
 	
 
 	public static void main(String[] args) throws InterruptedException {
-
+		WebElement elementName = driver.findElement(By.xpath("LocatorValue"));
 		
 		if(browser.equals("firefox")) {
 			
